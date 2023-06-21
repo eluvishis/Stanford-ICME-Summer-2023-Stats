@@ -3,36 +3,15 @@ layout: default
 ---
 
 # Workshop Description
-TODO(instructor): fill in this section with a description of your workshop.
 
-This course covers the following aspects
-  * Topic 1, and
-  * Topic 2, ...
-  
-It may be helpful to know that you can *italicize* text with single-asterisks
-(or alternatively, using _underscores_),
-and that you can **bold** text using double-asterisks.
-
-If you want to insert a link, use `[` in order to delimit the text that you wish
-to appear in the web-UI, and after closing the text with `]`insert the URL in a
-set of `()`, e.g. [here is a link to ICME's
-website](https://icme.stanford.edu/).
+This workshop covers the fundamentals of statistics, which powers modern day machine learning, deep learning and data science. This course will provide an overview of the key methodologies of statistics, which is also known as the science of learning from data.  The course will be introductory and does not require a background in statistics. We will cover basic techniques on how to visualize data, sample and conduct experiments. We then will detail statistical approximations including mean and standard deviation estimates from data, the normal approximation, and central limit theorem, as well as common probability rules and distributions for different types of data. We will demonstrate the important concepts and pitfalls of regression as well as regression error analysis including the bias-variance tradeoff, and how to do inference with confidence intervals and tests of hypotheses. While the course requires no prior programming, programming examples are provided in R to give participants hands-on experience with applying concepts for data analysis. By the end of this workshop, participants will have developed a foundational understanding and hands-on experience with the statistical fundamentals behind Big Data and data science, which will be important for the subsequent machine learning related workshops.
 
 ## About the Instructor
 
-TODO(instructor): create a profile photo in two steps.
+![danielle-maddix](/assets/img/danielle.png){:style="max-width:30%;"}
 
-  * Replace "instructor-name" in the image below with your name (note: this link
-is only visible in the raw-text file; on the web-page itself you'll simply see a
-sticky note with "To Do" written on it).
-  * Move the image you would like to appear on your website into the 
-    following folder contained in your website's working directory
-    ```
-    /assets/img/profile.jpg
-    ```
-![instructor-name](/assets/img/profile.jpg){:style="max-width:30%;"}
+Danielle Maddix Robinson is a Senior Applied Scientist in the Machine Learning Forecasting Group within AWS AI Labs. She graduated with her PhD in Computational and Mathematical Engineering from the Institute of Computational and Mathematical Engineering (ICME) at Stanford University. She was advised by Professor Margot Gerritsen and developed robust numerical methods to remove spurious temporal oscillations in the degenerate Generalized Porous Medium Equation.  She is passionate about the underlying numerical analysis, linear algebra and optimization methods behind numerical PDEs and applying these techniques to deep learning.  She joined AWS in 2018 shortly after graduating, and has been working on developing statistical and deep learning models for time series forecasting. In this past year, she has been leading the research initiative on developing models for physics-constrained machine learning for scientific computing. In particular, she has researched how to apply ideas from numerical methods, e.g., finite volume schemes, to improve the accuracy of black-box ML models for ODEs and PDEs with applications to epidemiology, aerodynamics, ocean and climate models. 
 
-TODO(instructor): insert a description about yourself here!
 
 # Workshop Materials
 
