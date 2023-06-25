@@ -12,34 +12,54 @@ This workshop covers the fundamentals of statistics, which powers modern day mac
 
 Danielle Maddix Robinson is a Senior Applied Scientist in the Machine Learning Forecasting Group within AWS AI Labs. She graduated with her PhD in Computational and Mathematical Engineering from the Institute of Computational and Mathematical Engineering (ICME) at Stanford University. She was advised by Professor Margot Gerritsen and developed robust numerical methods to remove spurious temporal oscillations in the degenerate Generalized Porous Medium Equation.  She is passionate about the underlying numerical analysis, linear algebra and optimization methods behind numerical PDEs and applying these techniques to deep learning.  She joined AWS in 2018 shortly after graduating, and has been working on developing statistical and deep learning models for time series forecasting. In this past year, she has been leading the research initiative on developing models for physics-constrained machine learning for scientific computing. In particular, she has researched how to apply ideas from numerical methods, e.g., finite volume schemes, to improve the accuracy of black-box ML models for ODEs and PDEs with applications to epidemiology, aerodynamics, ocean and climate models. 
 
+## About the Workshop Assistant 
+
+![eden-luvishis](/assets/img/edenluvishissquare.png){:style="max-width:30%;"}
+
+Eden Luvishis is a Master's student in the Institute for Computational and Mathematical Engineering (ICME) at Stanford University in the Computational Finance Track. She received her Bachelor's from Stevens Institute of Technology in Quantitative Finance and has been involved in a number of research and professional experiences. She completed three internships in quantitative trading and research with a focus in signal research and predictor modeling as well as cross-instrument trading. Her reserach has focused on the application of generative AI to financial modeling and hedging problems and she has presented findings at the R/Finance conference. She has a deep appreciation for data science and is excited about discovering its newest applications. 
 
 # Workshop Materials
 
 ## Pre-workshop Checklist
-TODO(instructor): enumerate what students need to take care of before the
-workshop. E.g.
 
-1. Download the following tools: ...
+1. Make sure you have the Zoom links to the course. If not please email us (edenl [at] stanford [dot] edu). 
 2. Familiarize with the schedule posted below.
+3. Join Piazza at this [link](https://piazza.com/stanford/summer2023/icmesummer)
 
-## Schedule
-TODO(instructor): Make sure the dates and times are accurate below for your
-course. E.g. replace `?`'s with the hour (or time-of-day) 
-that your course starts. Adjust time schedules within each session.
+## Schedule and Slides 
 
-#### Session 1 (?:00 - ?: ?.M. PST)
-  - Topic 1 with example time-allocation.
-  - Topic 2 with example time-allocation, etc.
-  - 15 minute Q&A
+
+#### Session 1: Monday July 24th, 8:00 - 9:30 AM. PST
+  - Descriptive statistics
+  - Producing data
+  - Sampling and experiments
+  - Slides: 
   
-#### Session 2 (?:00 - ?:00 ?.M. PST)
-  - Something similar as above.
+#### Session 2: Monday July 24th, 9:35 - 11:00 AM. PST
+  - Probability
+  - The normal curve
+  - The central limit theorem
+  - Slides: 
+
+
+#### Session 3: Tuesday July 25th, 8:00 - 9:30 AM. PST
+  - Regression
+  - Confidence intervals
+  - The bootstrap
+  - Slides: 
+
+#### Session 4: Tuesday July 25th, 9:35 - 11:00 AM. PST
+  - Testing hypotheses
+  - Multiple comparisons 
+  - Reproducibility
+  - Slides: 
+
 
 ## Additional Resources
 
 Here are some additional resources for various topics:
 
-TODO(instructor): fill in with pertinent resources.
+
 
 
 
