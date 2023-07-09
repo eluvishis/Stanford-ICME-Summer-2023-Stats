@@ -31,27 +31,25 @@ Eden Luvishis is a Master's student in the Institute for Computational and Mathe
 
 #### Session 1: Monday July 24th, 8:00 - 9:30 AM. PST
   - Descriptive statistics
-  - Producing data
   - Sampling and experiments
   - Slides: 
   
 #### Session 2: Monday July 24th, 9:35 - 11:00 AM. PST
   - Probability
   - The normal curve
-  - The central limit theorem
+  - Probability Distributions
   - Slides: 
 
 
 #### Session 3: Tuesday July 25th, 8:00 - 9:30 AM. PST
-  - Regression
-  - Confidence intervals
-  - The bootstrap
+  - Sampling Distributions
+  - Central Limit Theorem (CLT)
   - Slides: 
 
 #### Session 4: Tuesday July 25th, 9:35 - 11:00 AM. PST
   - Testing hypotheses
-  - Multiple comparisons 
-  - Reproducibility
+  - Confidence Intervals
+  - Regression
   - Slides: 
 
 
