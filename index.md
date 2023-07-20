@@ -40,6 +40,7 @@ Eden Luvishis is a Master's student in the Institute for Computational and Mathe
   - The normal curve
   - Probability Distributions
   - Slides: 
+  - Exercises: [Section 2](/assets/pdf/section2.pdf)
 
 
 #### Session 3: Tuesday July 25th, 8:00 - 9:30 AM. PST
