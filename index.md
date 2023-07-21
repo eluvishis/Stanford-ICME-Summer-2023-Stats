@@ -28,7 +28,7 @@ Eden Luvishis is a Master's student in the Institute for Computational and Mathe
 
 ## Schedule and Slides 
 
-[Slides](/assets/pdf/slidesall_danielle.pdf)
+You can access the lecture slides here: [Slides](/assets/pdf/slidesall_danielle.pdf)
 
 #### Session 1: Monday July 24th, 8:00 - 9:30 AM. PST
   - Descriptive statistics
@@ -52,7 +52,7 @@ Eden Luvishis is a Master's student in the Institute for Computational and Mathe
   - Testing hypotheses
   - Confidence Intervals
   - Regression
-  - Exercises: [Section 4](/assets/pdf/section4.pdf) [Section 5](/assets/pdf/section5.pdf)
+  - Exercises: [Section 4](/assets/pdf/section4.pdf) & [Section 5](/assets/pdf/section5.pdf)
 
 
 ## Additional Resources
