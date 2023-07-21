@@ -59,7 +59,7 @@ You can access the lecture slides here: [Slides](/assets/pdf/slidesall_danielle.
 
 Here are some additional resources for various topics:
 
-
+[Z-Table](https://www.z-table.com/)
 
 
 
