@@ -24,7 +24,7 @@ Eden Luvishis is a Master's student in the Institute for Computational and Mathe
 
 1. Make sure you have the Zoom links to the course. If not please email us (edenl [at] stanford [dot] edu). [Zoom Link Here]( https://stanford.zoom.us/j/93446967360?pwd=MTJDb3A3U1lPVWw1Mkd3UEJ1ajY1QT09)
 2. Familiarize with the schedule posted below.
-3. Join Piazza at this [link](https://piazza.com/stanford/summer2023/icmesummer). Access code: icmestats2023
+3. Join Piazza at this [link](https://piazza.com/stanford/summer2023/icmesummer). Access code: _icmestats2023_
 
 ## Schedule and Slides 
 
