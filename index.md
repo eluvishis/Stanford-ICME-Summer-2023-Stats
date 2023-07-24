@@ -30,12 +30,12 @@ Eden Luvishis is a Master's student in the Institute for Computational and Mathe
 
 You can access the lecture slides here: [Slides](/assets/pdf/slidesall_danielle.pdf)
 
-#### Session 1: Monday July 24th, 8:00 - 9:30 AM. PST
+#### Session 1: Monday July 24th, 8:00 - 9:20 AM. PST
   - Descriptive statistics
   - Sampling and experiments
   - Exercises: [Section 1](/assets/pdf/section1.pdf)
   
-#### Session 2: Monday July 24th, 9:35 - 11:00 AM. PST
+#### Session 2: Monday July 24th, 9:40 - 11:00 AM. PST
   - Probability
   - The normal curve
   - Probability Distributions
