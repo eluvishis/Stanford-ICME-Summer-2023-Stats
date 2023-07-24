@@ -30,25 +30,25 @@ Eden Luvishis is a Master's student in the Institute for Computational and Mathe
 
 You can access the lecture slides here: [Slides](/assets/pdf/slidesall_danielle.pdf)
 
-#### Session 1: Monday July 24th, 8:00 - 9:20 AM. PST
+#### Session 1: Monday July 24th, 8:00 - 9:20 AM. PT
   - Descriptive statistics
   - Sampling and experiments
   - Exercises: [Section 1](/assets/pdf/section1.pdf)
   
-#### Session 2: Monday July 24th, 9:40 - 11:00 AM. PST
+#### Session 2: Monday July 24th, 9:40 - 11:00 AM. PT
   - Probability
   - The normal curve
   - Probability Distributions
   - Exercises: [Section 2](/assets/pdf/section2.pdf)
 
 
-#### Session 3: Tuesday July 25th, 8:00 - 9:30 AM. PST
+#### Session 3: Tuesday July 25th, 8:00 - 9:30 AM. PT
   - Sampling Distributions
   - Central Limit Theorem (CLT)
   - Exercises: [Section 3](/assets/pdf/section3.pdf)
 
 
-#### Session 4: Tuesday July 25th, 9:35 - 11:00 AM. PST
+#### Session 4: Tuesday July 25th, 9:35 - 11:00 AM. PT
   - Testing hypotheses
   - Confidence Intervals
   - Regression
