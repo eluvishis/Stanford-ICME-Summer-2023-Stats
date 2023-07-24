@@ -34,13 +34,16 @@ You can access the lecture slides here: [Slides](/assets/pdf/slidesall_danielle.
   - Descriptive statistics
   - Sampling and experiments
   - Exercises: [Section 1](/assets/pdf/section1.pdf)
+  - Quiz Solutions: [Solutions](/assets/pdf/sec1quiz.pdf)
   
 #### Session 2: Monday July 24th, 9:40 - 11:00 AM. PT
   - Probability
   - The normal curve
   - Probability Distributions
   - Exercises: [Section 2](/assets/pdf/section2.pdf)
+  - Quiz Solutions: [Solutions](/assets/pdf/sec2quiz.pdf)
 
+Solutions for Session 1 and 2: [Solutions](/assets/pdf/section12solns.pdf)
 
 #### Session 3: Tuesday July 25th, 8:00 - 9:30 AM. PT
   - Sampling Distributions
@@ -55,12 +58,14 @@ You can access the lecture slides here: [Slides](/assets/pdf/slidesall_danielle.
   - Exercises: [Section 4](/assets/pdf/section4.pdf) & [Section 5](/assets/pdf/section5.pdf)
 
 
-## Additional Resources
+## Additional Resources & Slides
 
 Here are some additional resources for various topics:
 
+[Slides](/assets/pdf/slidesall_danielle.pdf)
 [Z-Table](https://www.z-table.com/)
 [T Table](https://www.sjsu.edu/faculty/gerstman/StatPrimer/t-table.pdf)
+
 
 
 
