@@ -51,7 +51,7 @@ Solutions for Session 1 and 2: [Solutions](/assets/pdf/section12solns.pdf)
   - Exercises: [Section 3](/assets/pdf/section3.pdf)
 
 
-#### Session 4: Tuesday July 25th, 9:35 - 11:00 AM. PT
+#### Session 4: Tuesday July 25th, 9:45 - 11:00 AM. PT
   - Testing hypotheses
   - Confidence Intervals
   - Regression
