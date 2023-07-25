@@ -49,22 +49,28 @@ Solutions for Session 1 and 2: [Solutions](/assets/pdf/section12solns.pdf)
   - Sampling Distributions
   - Central Limit Theorem (CLT)
   - Exercises: [Section 3](/assets/pdf/section3.pdf)
+  - Quiz Solutions: [Solutions](/assets/pdf/sec3quiz.pdf)
 
+Solutions for Session 3: [Solutions](/assets/pdf/section3solns.pdf)
 
 #### Session 4: Tuesday July 25th, 9:40 - 11:00 AM. PT
   - Testing hypotheses
   - Confidence Intervals
   - Regression
   - Exercises: [Section 4](/assets/pdf/section4.pdf) & [Section 5](/assets/pdf/section5.pdf)
+  - Quiz Solutions: [Solutions](/assets/pdf/sec45quiz.pdf)
 
+Solutions for Session 4: [Solutions](/assets/pdf/section3solns.pdf)
+
+Please complete this post-course survey to receive your certificate: [Post Course Survey](https://stanforduniversity.qualtrics.com/jfe/form/SV_7OqhZXizr0qQO9g)
 
 ## Additional Resources & Slides
 
 Here are some additional resources for various topics:
 
-[Slides](/assets/pdf/slidesall_danielle.pdf)
-[Z-Table](https://www.z-table.com/)
-[T Table](https://www.sjsu.edu/faculty/gerstman/StatPrimer/t-table.pdf)
+- [Slides](/assets/pdf/slidesall_danielle.pdf)
+- [Z-Table](https://www.z-table.com/)
+- [T Table](https://www.sjsu.edu/faculty/gerstman/StatPrimer/t-table.pdf)
 
 
 
