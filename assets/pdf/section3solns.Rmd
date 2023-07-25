@@ -1,0 +1,30 @@
+---
+title: "ICME Intro to Stats Summer Workshop"
+author: "Section 3 Solutions"
+date: "2023-07-24"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(fig.width = 6, fig.height = 4)
+knitr::opts_knit$set(root.dir = getwd())
+```
+
+## Section 3 
+
+### 1. 
+
+The Answer here is C. Here is an explanation of why the other answers are wrong. Typically, we say that when n $\geq$ 30 we have a large enough sample to assume a normal distribution: 
+
+- A. By the Central Limit Theorem, the sum of a large number of observations of a random variable follows a normal distribution, not a uniform distribution, even if the observations themselves follow a uniform distribution.  
+- B. By the Central Limit Theorem, the sum of a large number of observations of a random variable follows a normal distribution, not a binomial distribution.  
+- C. By the Central Limit Theorem, the sum of a large number of observations of a random variable follows a normal distribution in which the mean is the sample size times the mean of the original distribution (in this case, 40(1.5) = 60), and the standard deviation is the square root of the sample size times the original standard deviation (in this case, $\sqrt{40}\sqrt{\frac{9}{12}} \approx$ 5.477). We get the standard deviation by following the formula for the standard deviation of a uniform random variable.   
+$$Var(X) \sim \frac {(b-a)^2}{12}= \frac{(7-4)^2}{12} = \frac{9}{12}$$
+- D. By the Central Limit Theorem, the sum of a large number of observations of a random variable follows a normal distribution in which the mean is the sample size times the mean of the original distribution; this answer does not account for the sample size.
+
+
+### 2. 
+$$X \sim N(2, \frac{0.25}{\sqrt{16}})$$
+Let X be the random variable for the average carrot length in a single bag. The sampling distribution of the mean Y follows a normal distribution in which the mean of Y is the same as that of X (in this case, 2), and the standard deviation is that of Y divided by the square root of the sample size (in this case, $\frac{0.25}{\sqrt{16}}$).
+
