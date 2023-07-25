@@ -45,13 +45,13 @@ You can access the lecture slides here: [Slides](/assets/pdf/slidesall_danielle.
 
 Solutions for Session 1 and 2: [Solutions](/assets/pdf/section12solns.pdf)
 
-#### Session 3: Tuesday July 25th, 8:00 - 9:30 AM. PT
+#### Session 3: Tuesday July 25th, 8:00 - 9:20 AM. PT
   - Sampling Distributions
   - Central Limit Theorem (CLT)
   - Exercises: [Section 3](/assets/pdf/section3.pdf)
 
 
-#### Session 4: Tuesday July 25th, 9:45 - 11:00 AM. PT
+#### Session 4: Tuesday July 25th, 9:40 - 11:00 AM. PT
   - Testing hypotheses
   - Confidence Intervals
   - Regression
