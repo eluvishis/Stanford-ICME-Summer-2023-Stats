@@ -60,7 +60,7 @@ Solutions for Session 3: [Solutions](/assets/pdf/section3solns.pdf)
   - Exercises: [Section 4](/assets/pdf/section4.pdf) & [Section 5](/assets/pdf/section5.pdf)
   - Quiz Solutions: [Solutions](/assets/pdf/sec45quiz.pdf)
 
-Solutions for Session 4: [Solutions](/assets/pdf/section3solns.pdf)
+Solutions for Session 4 & 5: [Solutions](/assets/pdf/section45solns.pdf)
 
 Please complete this post-course survey to receive your certificate: [Post Course Survey](https://stanforduniversity.qualtrics.com/jfe/form/SV_7OqhZXizr0qQO9g)
 
