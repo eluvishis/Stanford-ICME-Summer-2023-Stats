@@ -45,6 +45,8 @@ You can access the lecture slides here: [Slides](/assets/pdf/slidesall_danielle.
 
 Solutions for Session 1 and 2: [Solutions](/assets/pdf/section12solns.pdf)
 
+Zoom recording day 1: [Link](https://stanford.zoom.us/rec/share/ulTmpbJ6CTSlfZF0c_IhiMRlfF1jdCm-2vFYrdzt5tOTci8rRx0wY63BjmGoUMBw.TNr32c77_-bcl9Gh)
+
 #### Session 3: Tuesday July 25th, 8:00 - 9:20 AM. PT
   - Sampling Distributions
   - Central Limit Theorem (CLT)
@@ -61,6 +63,9 @@ Solutions for Session 3: [Solutions](/assets/pdf/section3solns.pdf)
   - Quiz Solutions: [Solutions](/assets/pdf/sec45quiz.pdf)
 
 Solutions for Session 4 & 5: [Solutions](/assets/pdf/section45solns.pdf)
+
+Zoom recording Day 2: [Link](https://stanford.zoom.us/rec/share/FxWVvy0FBdFQh_r3jjbqY9OpO5PeFtz5l4a0GyNJSCdNDqXjkbFhtjDUnziPA0oR.h3ynu2KIAHNcljX6)
+
 
 Please complete this post-course survey to receive your certificate: [Post Course Survey](https://stanforduniversity.qualtrics.com/jfe/form/SV_7OqhZXizr0qQO9g)
 
