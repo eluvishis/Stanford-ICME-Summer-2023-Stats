@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Workshop Description
+# Workshop Description Summer 2023
 
 This workshop covers the fundamentals of statistics, which powers modern day machine learning, deep learning and data science. This course will provide an overview of the key methodologies of statistics, which is also known as the science of learning from data.  The course will be introductory and does not require a background in statistics. We will cover basic techniques on how to visualize data, sample and conduct experiments. We then will detail statistical approximations including mean and standard deviation estimates from data, the normal approximation, and central limit theorem, as well as common probability rules and distributions for different types of data. We will demonstrate the important concepts and pitfalls of regression as well as regression error analysis including the bias-variance tradeoff, and how to do inference with confidence intervals and tests of hypotheses. By the end of this workshop, participants will have developed a foundational understanding and hands-on experience with the statistical fundamentals behind Big Data and data science, which will be important for the subsequent machine learning related workshops.
 
